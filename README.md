@@ -37,7 +37,9 @@
 
  ## OUTPUT
 
- <img width="661" height="941" alt="Screenshot 2025-09-25 105510" src="https://github.com/user-attachments/assets/8282cd19-f8ac-4e91-9595-47c346207685" />
+ 
+ <img width="688" height="957" alt="Screenshot 2025-09-25 105730" src="https://github.com/user-attachments/assets/7bd8671a-3a60-41f1-9697-3edcf399d4a0" />
+
 
  
  ## RESULT
