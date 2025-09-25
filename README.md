@@ -38,7 +38,8 @@
  ## OUTPUT
 
  
- <img width="688" height="957" alt="Screenshot 2025-09-25 105730" src="https://github.com/user-attachments/assets/7bd8671a-3a60-41f1-9697-3edcf399d4a0" />
+![Uploading Screenshot 2025-09-25 105510.png…]()
+
 
 
  
